@@ -1,5 +1,9 @@
 # Project exclude paths
 /out/
 .idea/
+<<<<<<< HEAD
 DS_Programs_Java.iml
 .xml/
+=======
+DS_Programs_Java.iml
+>>>>>>> origin/master
